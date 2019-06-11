@@ -9,12 +9,12 @@ or get Git
 Download git: https://git-scm.com/downloads
 A git tutorial: https://rogerdudler.github.io/git-guide/
 and then type:
-'''bash
+'''
 git clone https://github.com/tutorexchange/Django-website.git
 '''
 When the repo is downloaded, go into the django-project folder.
 Using the command line:
-'''bash
+'''
 cd django-project
 '''
 make sure you see something like:
@@ -23,13 +23,13 @@ in your command line
 (Some pre-requisite libraries are needed to run the server)
 (Sepecifically django, and crispy forms)
 type in command line:
-'''bash
+'''
 pip install django
 pip install django-crispy-forms
 '''
 (Incase any errors just message me)
 then run:
-'''bash
+'''
 python manage.py runserver
 '''
 to start the server
