@@ -34,6 +34,7 @@ then run:
 python manage.py runserver
 ```
 to start the server
-then type in 127.0.0.1:8000(or alternatively follow what your command line now tells you)
+then type in 127.0.0.1:8000 in your browser
+(or alternatively follow what your command line now tells you)
 to get into the website.
 ![alt text](https://raw.githubusercontent.com/tutorexchange/Django-website/master/preview.png)
